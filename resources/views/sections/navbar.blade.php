@@ -4,7 +4,7 @@
             <img src="images/zlogo.png"
                 alt="no logo"
                 style="width: 50px; height: 50px; object-fit: contain; padding-right:10px; position: relative; left: -1px; top: -1px;">
-            <span class="logo-text">Muhammad Zohaib</span>
+            <span class="logo-text">Asad Rafique</span>
         </div>
         <ul class="nav-links" id="navLinks">
             <li><a href="#home">Home</a></li>

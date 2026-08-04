@@ -1,6 +1,4 @@
-/* ============================================
-   MAIN.JS — Muhammad Zohaib Portfolio
-   ============================================ */
+
 
 /* ---- Navbar scroll effect ---- */
 const navbar = document.getElementById('navbar');

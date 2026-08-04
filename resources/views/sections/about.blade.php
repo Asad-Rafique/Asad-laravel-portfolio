@@ -4,11 +4,12 @@
 
         <div class="about-grid">
             <div class="about-info">
-                <p><strong>Name:</strong>Muhammad Zohaib</p>
+                <p><strong>Name:</strong>Asad Rafique</p>
                 <p><strong>Email:</strong> zohaiblatif006@gmail.com</p>
 
                 <p class="about-bio">
-                    I'm a Full-Stack Web Developer from Pakistan, passionate about turning ideas into clean, user-friendly
+                    I am a *Full Stack PHP Laravel Developer* with *4+ years of professional experience* in designing, developing, and maintaining modern web applications. My expertise spans both *frontend and backend development*, allowing me to build complete, scalable, and high-performance solutions from concept to deployment.
+                    Throughout my career, I have worked with startups and established companies, contributing to enterprise applications, business management systems, RESTful APIs, WordPress websites, and mobile application backends. I am passionate about writing clean, maintainable code and delivering solutions that solve real business problems. I'm a Full-Stack Web Developer from Pakistan, passionate about turning ideas into clean, user-friendly
                     digital products. I specialize in building scalable web applications using modern JavaScript frameworks,
                     focusing on writing maintainable code and delivering smooth, high-performance experiences for real users.
                     I thrive in collaborative environments and enjoy solving complex problems with elegant, efficient solutions.
@@ -40,10 +41,10 @@
         <div class="what-i-can-do">
             @php
             $capabilities = [
-                ['icon' => 'fas fa-desktop', 'title' => 'Modern Frontend Experiences', 'desc' => 'Build awesome accessible UIs using HTML and  CSS, Bootstrap focusing on clean layouts, smooth animations & responsive design.'],
-                ['icon' => 'fas fa-plug', 'title' => 'APIs & Backend Logic', 'desc' => 'Design RESTful APIs with php and laravel, and work with databases to store and manage data efficiently.'],
-                ['icon' => 'fas fa-globe', 'title' => 'End-to-End Web Apps', 'desc' => 'Take a project from idea to deployment using GitHub, manage tasks and integrations, ensuring finalized and functional ship to date.'],
-                ['icon' => 'fas fa-users', 'title' => 'Teamwork & Problem-Solving', 'desc' => 'Collaborate using Git, meet deadlines, and bring clarity to deliver reliable solutions on time.'],
+            ['icon' => 'fas fa-desktop', 'title' => 'Modern Frontend Experiences', 'desc' => 'Build awesome accessible UIs using HTML and CSS, Bootstrap focusing on clean layouts, smooth animations & responsive design.'],
+            ['icon' => 'fas fa-plug', 'title' => 'APIs & Backend Logic', 'desc' => 'Design RESTful APIs with php and laravel, and work with databases to store and manage data efficiently.'],
+            ['icon' => 'fas fa-globe', 'title' => 'End-to-End Web Apps', 'desc' => 'Take a project from idea to deployment using GitHub, manage tasks and integrations, ensuring finalized and functional ship to date.'],
+            ['icon' => 'fas fa-users', 'title' => 'Teamwork & Problem-Solving', 'desc' => 'Collaborate using Git, meet deadlines, and bring clarity to deliver reliable solutions on time.'],
             ];
             @endphp
 

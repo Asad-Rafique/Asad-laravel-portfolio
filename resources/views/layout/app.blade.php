@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Muhammad Zohaib – Full Stack Developer specializing in Laravel, Java script, PHP, Mysql,  Bootsrap & CSS.">
+    <meta name="description" content="Asad Rafique – Full Stack Developer specializing in Laravel, Java script, PHP, Mysql,  Bootsrap & CSS.">
     <meta name="author" content="Muhammad Zohaib">
-    <title>Muhammad Zohaib – Full web Stack Developer</title>
+    <title>Asad Rafique– Full Stack PHP Laravel Developer</title>
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <!-- Google Fonts -->
      <link rel="stylesheet"
