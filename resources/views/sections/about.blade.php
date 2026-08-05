@@ -5,10 +5,10 @@
         <div class="about-grid">
             <div class="about-info">
                 <p><strong>Name:</strong>Asad Rafique</p>
-                <p><strong>Email:</strong> zohaiblatif006@gmail.com</p>
+                <p><strong>Email:</strong>asadrafique280@gmail.com</p>
 
                 <p class="about-bio">
-                    I am a *Full Stack PHP Laravel Developer* with *4+ years of professional experience* in designing, developing, and maintaining modern web applications. My expertise spans both *frontend and backend development*, allowing me to build complete, scalable, and high-performance solutions from concept to deployment.
+                    I am a Full Stack PHP Laravel Developer with 4+ years of professional experience in designing, developing, and maintaining modern web applications. My expertise spans both *frontend and backend development*, allowing me to build complete, scalable, and high-performance solutions from concept to deployment.
                     Throughout my career, I have worked with startups and established companies, contributing to enterprise applications, business management systems, RESTful APIs, WordPress websites, and mobile application backends. I am passionate about writing clean, maintainable code and delivering solutions that solve real business problems. I'm a Full-Stack Web Developer from Pakistan, passionate about turning ideas into clean, user-friendly
                     digital products. I specialize in building scalable web applications using modern JavaScript frameworks,
                     focusing on writing maintainable code and delivering smooth, high-performance experiences for real users.
@@ -20,18 +20,26 @@
                 <div class="about-block">
                     <h3><i class="fas fa-briefcase"></i> Experience</h3>
                     <p>
-                        Worked at <strong>Al-SHIFA innovation</strong>, where I contributed to building modern, responsive websites
-                        and delivered solid frontend and problem-solving. I closely followed industry best practices,
-                        and GitHub for version control, seeking code reviews to improve code quality.
+                        Worked at <strong>Giffring – Saudi Arabia</strong>,
+                        <strong>Tech Communication – Lahore, Pakistan</strong>,
+                        <strong>Shara Web Solutions</strong>,
+                        Developed and maintained scalable Laravel applications.
+                        Designed and implemented secure RESTful APIs for mobile applications.
+                        Built backend features for business management systems.
+                        Optimized database performance and application security.
+                        Collaborated remotely with international development teams.
+                        WordPress Website Development
+                        Custom WordPress Theme & Plugin Customization
                     </p>
                 </div>
+
 
                 <div class="about-block">
                     <h3><i class="fas fa-graduation-cap"></i> Education</h3>
                     <p>
-                        Studied <strong>Web Development</strong> through code-export self learning, real projects and
-                        professional methods. I am currently pursuing a <strong>BS in Computer Science</strong> to strengthen
-                        my foundations in programming, software engineering and modern technologies.
+                        Studied <strong>BS Software Engineering</strong> Bachelor of Science in Software Engineering
+                        The degree provided a strong foundation in software engineering principles, object-oriented programming, database systems,
+                        software architecture, web technologies, software testing, and project management.
                     </p>
                 </div>
             </div>

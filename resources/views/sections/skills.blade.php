@@ -11,11 +11,14 @@
             ['emoji' => '🐘', 'name' => 'PHP',          'percent' => 85],
             ['emoji' => '🍃', 'name' => 'MySQL',        'percent' => 80],
             ['emoji' => '🟨', 'name' => 'JavaScript',   'percent' => 88],
-            ['emoji' => '🎨', 'name' => 'CSS',          'percent' => 92],
+             ['emoji' => '🖌️', 'name' => 'jQuery',       'percent' => 90],
+            ['emoji' => '🎨', 'name' => 'Tailwind CSS',          'percent' => 92],
             ['emoji' => '🅱️', 'name' => 'Bootstrap',   'percent' => 90],
-            ['emoji' => '🔍', 'name' => 'HTML',         'percent' => 95],
+            ['emoji' => '🔍', 'name' => 'HTML5',         'percent' => 95],
             ['emoji' => '🐙', 'name' => 'GitHub',       'percent' => 90],
-            ['emoji' => '🖌️', 'name' => 'Figma',       'percent' => 80],
+            ['emoji' => '🖌️', 'name' => 'Deployment & Hosting',       'percent' => 90],
+           ['emoji' => '🖌️', 'name' => 'WordPress',       'percent' => 90],
+           ['emoji' => '🖌️', 'name' => 'Flutter',       'percent' => 90],
         ];
         @endphp
 

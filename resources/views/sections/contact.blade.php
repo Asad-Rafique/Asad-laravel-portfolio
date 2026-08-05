@@ -49,7 +49,7 @@
 
         <div class="contact-info">
             <a href="mailto:zohaiblatif006@gmail.com" class="contact-link">
-                <i class="fas fa-envelope"></i> zohaiblatif006@gmail.com
+                <i class="fas fa-envelope"></i>asadrafique280@gmail.com
             </a>
         </div>
     </div>
