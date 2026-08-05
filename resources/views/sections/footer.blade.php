@@ -6,7 +6,7 @@
             <img src="images/zlogo.png"
                 alt=" "
                 style="width: 50px; height: 50px; object-fit: contain; padding-right:0px; position: relative; left: -1px; top: -1px;">
-            <span class="logo-text">Muhammad Zohaib</span>
+            <span class="logo-text">Asad Rafique</span>
         </div>
                 <p>Full Stack Developer & laravel Expert</p>
             </div>
@@ -25,6 +25,6 @@
 </a>
             </div>
         </div>
-        <p class="footer-copy">&copy; {{ date('Y') }} Muhammad Zohaib. All rights reserved.</p>
+        <p class="footer-copy">&copy; {{ date('Y') }} Asad Rafique. All rights reserved.</p>
     </div>
 </footer>

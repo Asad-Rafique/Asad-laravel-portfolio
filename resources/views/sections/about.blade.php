@@ -65,8 +65,5 @@
             @endforeach
         </div>
 
-        <div class="contact-me-center">
-            <a href="#contact" class="btn btn-primary">Contact Me</a>
-        </div>
-    </div>
+        
 </section>
